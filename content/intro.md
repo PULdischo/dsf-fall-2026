@@ -39,15 +39,15 @@ Our series will explore the benefits and limitations of static sites, while intr
 ## CollectionBuilder
 We will use the digital exhibit framework [CollectionBuilder](https://collectionbuilder.github.io/), which leverages GitHub Pages and Jekyll, as well as other tools and methods that we will learn about, to create a prototype website. We will utilize CB during the second half of our series.
 
-## Spring Schedule
+## Fall Schedule
 
 Session Type | Date | Title | Key Themes
 --- | --- | --- | ---
-Workshop | February 5 | GitHub and Getting to Know Your Computer | Version control; repositories; cloning |
-Workshop | February 9 | The Web, Markdown, and Data | Text editors; Authoring web content; Markup languages
-Office Hours (optional) | February 25 and 26 | Office Hours (optional) | Work on your project, set up development environment, and troubleshoot issues
-Workshop | March 5 | CollectionBuilder and Local Development | GitHub Pages; Hosting; CollectionBuilder
-Workshop | March 19 | Advanced Building and Basic Computational Methods | Customization; Computational methods; Publication
+Workshop | October 14 | Getting to Know Your Computer and Common Tools | Version control; text editors; repositories |
+Workshop | October 28 | The Web, Markdown, and Data | Text editors; authoring web content; markup languages
+Office Hours (optional) | November 11 and 12 | Office Hours (optional) | Work on your project, set up development environment, and troubleshoot issues
+Workshop | November 18 | Static Site Generation and Local Development | GitHub Pages; hosting; CollectionBuilder
+Workshop | December 2 | Advanced Building and Basic Computational Methods | Customization; computational methods; publication
 {:.table .table-bordered}
 
 ## Credits

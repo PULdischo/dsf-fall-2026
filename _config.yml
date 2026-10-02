@@ -11,12 +11,12 @@
 # SITE SETTINGS
 #
 # title appears in the header
-title: Digital Scholarship Foundations Spring 2025
+title: Digital Scholarship Foundations Fall 2026
 # title-icon appears in the header to give some pizazz (leave blank for none)
 # choose from Bootstrap Icons in _includes/bootstrap-icons
 # find names on https://icons.getbootstrap.com/ (or look in "_includes/bootstrap-icons")
 # some options: code-slash file-code gear tools lightblub book bookmark-star
-title-icon: code-slash
+title-icon: pul-logo
 # description appears in sidebar footer
 description: "DSF Static Website Curriculum"
 # keywords for meta tags used by search engines
@@ -27,9 +27,9 @@ keywords: "workshops, websites, gh-pages, jekyll"
 # author name, displayed in credits
 author: bryanwinston
 # year or date published, displayed in sidebar
-publication_year: 2025
+publication_year: 2026
 # location of code, the full url to your github repository
-source-code: https://github.com/PULdischo/dsf-static-web
+source-code: https://github.com/PULdischo/dsf-fall-2026
 # content license (typically "cc by-sa"), displayed in sidebar
 content_license: "CC BY-SA"
 # URL to the content license
