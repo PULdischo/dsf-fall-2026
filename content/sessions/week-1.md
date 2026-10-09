@@ -1,17 +1,57 @@
 ---
 section_id: Workshop Sessions
 nav_order: 3
-title: Week 1. GitHub And Getting to Know Your Computer
-topics: Version Control; Repositories; Cloning 
+title: Week 1. Getting to Know Your Computer and Common Tools
+topics: Version Control; Text Editors; Repositories 
 ---
 
 ## Learning Objectives
 
 - Discuss the advantages of a static website.
+- Become familiar with your text editor (VS Code).
+- Explore Markdown and using markup languages.
 - Create a GitHub account.
 - Create a GitHub repository.
 - Learn the basic commands and functionality of Git and GitHub.
-- Link your GitHub remote repository to your local machine via GitHub Desktop.
+
+## Getting to Know Your Text Editor
+
+While any text editor is welcome, we recommend [Visual Studio Code](https://code.visualstudio.com/) for this workshop series. VS code is commonly used and has a lower barrier to entry. Plus its free! If you haven't already, please [download VS Code](https://code.visualstudio.com/Download).
+
+Text editors allow you to easily read and edit plain text files like the ones we will use to build a website in this course. We will hold a live demo to explore the basics of VS Code and continue using the text editor throughout our series.
+
+## A Brief Introduction to Rich Text, Plain Text, and Markdown
+
+Markdown is a human-readable markup language for adding formatting to plain text files and how you will develop much of your website content. But what is a plain text file. A plain text file in simplest terms is a file where everything you see is what you get. There is no extra hidden code or pieces of content that the computer can see but you can't. This contrasts with a rich text file. A Word or Google doc are rich text files.
+
+We want to write in Markdown and therefore plain text because it makes it easier for a computer to interpret our meaning and minimizes loss when using different software. To better understand why this is important let's look at [how a Word Doc is actually a very complex series of files and folders](https://github.com/bwinston35/demos-and-teaching/blob/main/word-to-xml-demo.md) that can be challenging for non-Microsoft software to read.
+
+### What is Markdown?
+
+Markdown was developed as a simple way to write content for the web without using HTML (hypertext markup language), a language commonly used to write content for websites.
+It allows for a straight-forward way to structure text, links, images, code, tables, and lists within a plain text document without using tags like those used in HTML.
+
+Using Markdown, we can format text using...
+
+- Headings
+- Paragraphs and Line Breaks
+- Emphasis, e.g. bold and italics
+- Lists, e.g. numbered lists and unordered lists
+- Images
+- Hyperlinks
+- Block quotes
+
+### How are Markdown, HTML, and Your Browswer Related?
+
+Download the Markdown (.md) and HTML (.html) files in this folder.
+
+Using VS Code:
+
+- Open the sample Markdown (.md) file
+- Open the sample HTML (.html) file
+- Right click or control + click your markdown file to open rendered HTML
+
+All three versions have the same content text. The two files differ in how they are marked up (the symbols in the markdown file and the tags with angle brackets `<>` in the html file) and the browser content is a rendering of that markup so its looks formatted and aesthetically pleasing. The markup functions as if you clicked a "bold" button or "italic" button in a word processor like Microsoft Word or Google Docs and the rendering is the product.
 
 ## GitHub Basics
 

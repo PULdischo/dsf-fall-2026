@@ -7,11 +7,11 @@ Below are resources that can provide additional support during and after our wor
 
 ## Workshop Session Slideshows
 
-Week 1: GitHub and Getting to Know Your Computer: [Google Slides](https://docs.google.com/presentation/d/1s2ub0BxRURWum5EonvCYBr1uUdeqe8uvBMbkRq7dNlA/edit?usp=sharing)
+Week 1: GitHub and Getting to Know Your Computer: [Google Slides](https://docs.google.com/presentation/d/164yBHMiVv4UIPq52LbAPICjzX9tvHKmRYGJCENTimOs/edit?usp=sharing)
 
-Week 2: The Web, Markdown, and Data: [Google Slides](https://docs.google.com/presentation/d/1WZE_RDo2Ajjr2nVWqx6a0neXKhFmIDhC_FpLtdYXr-Q/edit?usp=sharing)
+Week 2: The Web, Markdown, and Data: Slides coming soon!
 
-Week 3: CollectionBuilder and Local Development: [Google Slides](https://docs.google.com/presentation/d/1SkbMBuufQpu_rr3sQJf53l8HZ70N5vzGdsIMLXSt_8Q/edit?usp=sharing)
+Week 3: Static Site Generation and Local Development: Slides coming soon!
 
 Week 4: Advanced Building and Basic Computational Methods: Slides coming soon!
 

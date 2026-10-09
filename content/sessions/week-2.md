@@ -44,12 +44,6 @@ We will use [dillinger.io](https://dillinger.io/) to explore the relationship be
 
 The accompanying slideshow will be made available after our session.
 
-## Getting to Know Your Text Editor
-
-While any text editor is welcome, we recommend [Visual Studio Code](https://code.visualstudio.com/) for this workshop series. VS code is commonly used and has a lower barrier to entry. Plus its free! If you haven't already, please [download VS Code](https://code.visualstudio.com/Download).
-
-Text editors allow you to easily read and edit plain text files like the ones we will use to build a website in this course. We will hold a live demo to explore the basics of VS Code and continue using the text editor throughout our series.
-
 ## Installing and Integrating Git
 
 VS Code makes it easy to use version control within the interface. We will make sure git is installed on your machine, do some basic commands on the command line, and configure git with GitHub so that we can work from within VS Code the remainder of this series.
