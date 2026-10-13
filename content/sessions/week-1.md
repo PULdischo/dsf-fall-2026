@@ -22,9 +22,9 @@ Text editors allow you to easily read and edit plain text files like the ones we
 
 ## A Brief Introduction to Rich Text, Plain Text, and Markdown
 
-Markdown is a human-readable markup language for adding formatting to plain text files and how you will develop much of your website content. But what is a plain text file. A plain text file in simplest terms is a file where everything you see is what you get. There is no extra hidden code or pieces of content that the computer can see but you can't. This contrasts with a rich text file. A Word or Google doc are rich text files.
+Markdown is a human-readable markup language for adding formatting to plain text files. You will develop much of your website content with Markdown. But what is a plain text file. A plain text file is a text file without hidden code or pieces of content that the computer can see but you can't. This contrasts with a rich text file. A Word or Google doc are rich text files.
 
-We want to write in Markdown and therefore plain text because it makes it easier for a computer to interpret our meaning and minimizes loss when using different software. To better understand why this is important let's look at [how a Word Doc is actually a very complex series of files and folders](https://github.com/bwinston35/demos-and-teaching/blob/main/word-to-xml-demo.md) that can be challenging for non-Microsoft software to read.
+We want to write in Markdown and therefore plain text because it makes it easier for a computer to interpret our meaning and it minimizes loss when using different software. To better understand why this is important let's look at [how a Word Doc is actually a very complex series of files and folders](https://github.com/bwinston35/demos-and-teaching/blob/main/word-to-xml-demo.md) that can be challenging for non-Microsoft software to read.
 
 ### What is Markdown?
 
@@ -43,7 +43,7 @@ Using Markdown, we can format text using...
 
 ### How are Markdown, HTML, and Your Browswer Related?
 
-Download the Markdown (.md) and HTML (.html) files in this folder.
+Download the Markdown (.md) and HTML (.html) files in the `md-html-demo` folder in the [demos-and-teaching repository](https://github.com/bwinston35/demos-and-teaching).
 
 Using VS Code:
 
