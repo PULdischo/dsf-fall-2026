@@ -14,35 +14,44 @@ topics: Text Editors; Authoring Web Content; Markup Languages
 - Write with Markdown.
 - Learn software that makes up development environment
 
-## File Naming and Metadata Best Practices
+## Remote to Local
 
-Following best practices make us good citizens within the user communities we join and facilitates the sustainability of our digital projects. For this workshop series, we need to follow the best practices or conventions shared by the CollectionBuilder team. 
+While GitHub's interface allows for editing, developing, and launching a website, working locally will help you work effectively and efficiently. This section will introduce you to the concept of remote and local repositories through the use of GitHub Desktop.
 
-### CB File Naming Conventions
+### Step 1. Install GitHub Desktop
 
-- all lowercase
-- no spaces
-- no special characters (undercscores `_` are ok)
+1. Navigate to [GitHub Desktop](https://github.com/apps/desktop) and download the appropriate version of GitHub Desktop for your operating system. 
+2. Follow the prompts to complete the installation. For more information, see [Installing GitHub Desktop](https://docs.github.com/en/desktop/installing-and-authenticating-to-github-desktop/setting-up-github-desktop).
+    1. Sign in to your Github.com account via the GitHub Desktop prompt.
+    2. Select `authorize` after reviewing access prompt.
+    3. When viewing `configure git` prompt, select `use my GitHub account name and email address`.
+    4. Click `finish`
+3. Arrive at `Let's get started.` prompt.
 
-### CB Metadata Best Practices
+### Step 2. Clone Your Repository Using GitHub Desktop
 
-- Don't use Excel to create or open your metadata spreadsheet
-- Use UTF-8 encoding
-- Strip extra white space
-- Use a semicolon to separate multiple values within a field
+1. Using your browser, go to your GitHub dashboard or repository list and find the repository we created in the previous module. If you followed along, it will be titled `dsf-github-basics`.
+2. On your repository landing page, find the green button titled `< > Code` and click to open a drop down menu.
+3. Under the `local` tab, select `Open with GitHub Desktop`.
+4. GitHub Desktop will open and show your repository url and a suggested local path. If these look accurate and/or are acceptable, click `clone`. 
 
-To explore CB's conventions further, review their [object](https://collectionbuilder.github.io/cb-docs/docs/objects/gh-objects/) and [metadata](https://collectionbuilder.github.io/cb-docs/docs/metadata/) guidelines for the CollectionBuilder GitHub Pages Template.
+### Step 3. Explore GitHub Desktop and its Functionality
 
-## The Web and Markup Languages
-
-We will explore the building blocks of websites and learn some basics of markup languages. Our focus will be on:
-
-- The anatomy of a URL
-- Markup languages and how they operate.
-
-We will use [dillinger.io](https://dillinger.io/) to explore the relationship between markdown, html, and your web browser.
-
-The accompanying slideshow will be made available after our session.
+1. Explore navigation bar:
+    - Current repository dropdown menu
+    - Current branch dropdown menu
+    - Suggested action:
+        - Fetch
+        - Pull
+        - Push
+2. Explore commit viewer:
+    - Changes
+    - History
+    - Commit message
+3. Explore main viewer:
+    - Open the repository in your external editor
+    - View the files of your repository in Finder/Windows Explorer
+    - Open the repository page on GitHub in your browser
 
 ## Installing and Integrating Git
 
@@ -54,6 +63,15 @@ Check and [configure git](https://collectionbuilder.github.io/cb-docs/docs/softw
     - If a message appears with your version of git, then you are all set. If not, then you must follow [CB's documentation](https://collectionbuilder.github.io/cb-docs/docs/software/git/) to install and configure git.
 - Be sure to follow the path for your computer/operating system.
 - Ignore the install GitHub Desktop part of the documentation if you already completed that step during an earlier session.
+
+## The Web and Markup Languages
+
+We will explore the building blocks of websites and learn some basics of markup languages. Our focus will be on:
+
+- The anatomy of a URL
+- Markup languages and how they operate.
+
+The accompanying slideshow will be made available after our session.
 
 ## Introduction to Markdown
 
@@ -317,6 +335,29 @@ Congratulations, you've just finished creating your first Markdown document!
 - [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
 - [Github Guides: Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
+## CollectionBuilder
+
+We will use the digital exhibit framework [CollectionBuilder](https://collectionbuilder.github.io/), which leverages GitHub Pages and Jekyll.
+
+### File Naming and Metadata Best Practices
+
+Following best practices make us good citizens within the user communities we join and facilitates the sustainability of our digital projects. For this workshop series, we need to follow the best practices or conventions shared by the CollectionBuilder team. 
+
+#### CB File Naming Conventions
+
+- all lowercase
+- no spaces
+- no special characters (undercscores `_` are ok)
+
+#### CB Metadata Best Practices
+
+- Don't use Excel to create or open your metadata spreadsheet
+- Use UTF-8 encoding
+- Strip extra white space
+- Use a semicolon to separate multiple values within a field
+
+To explore CB's conventions further, review their [object](https://collectionbuilder.github.io/cb-docs/docs/objects/gh-objects/) and [metadata](https://collectionbuilder.github.io/cb-docs/docs/metadata/) guidelines for the CollectionBuilder GitHub Pages Template.
+
 ## Our Development Environment
 
 The following combination of software, tools, and file types make your website possible. These are not the only solutions, but are great starting points. Here are the basics:
@@ -333,6 +374,6 @@ You will need to set up of your development environment by following specific do
 
 ## Homework
 
-- Set up your development environment. If you are unsure of what to do or struggle to set up the environment, please come to office hours on February 25 or 26.
+- Set up your development environment. If you are unsure of what to do or struggle to set up the environment, please come to office hours on November 11 or 12.
 - Collect your objects, place those objects in a folder on your hard drive, and apply file naming best practices to your objects.
 - Prepare your metadata for CollectionBuilder.

@@ -13,6 +13,13 @@ We've collected and listed the materials you will need to succeed in this series
 
 `A Text Editor:` The instructor will use [VS Code](https://code.visualstudio.com/) in all demonstrations so if you do not have a preferred text editor, we recommend downloading the software. Please confirm that your computer meets [the system requirements](https://code.visualstudio.com/docs/supporting/requirements). Feel free to wait to download the software until one of our sessions.
 
+The following [VS Code extensions](https://code.visualstudio.com/docs/configure/extensions/extension-marketplace) will expand the capabilities of VS code and make it easier for you to work with our course materials:
+
+- [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- [Edit CSV](https://marketplace.visualstudio.com/items?itemName=janisdd.vscode-edit-csv)
+- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+
 `Google Sheets:` We will avoid Excel and build metadata spreadsheets in Google Sheets.
 
 `CollectionBuilder:` [CollectionBuilder](https://collectionbuilder.github.io/) is an open source framework for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.

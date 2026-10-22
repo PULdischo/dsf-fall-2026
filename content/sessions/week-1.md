@@ -41,7 +41,7 @@ Using Markdown, we can format text using...
 - Hyperlinks
 - Block quotes
 
-### How are Markdown, HTML, and Your Browswer Related?
+### How are Markdown, HTML, and Your Browser Related?
 
 Download the Markdown (.md) and HTML (.html) files in the `md-html-demo` folder in the [demos-and-teaching repository](https://github.com/bwinston35/demos-and-teaching).
 
@@ -152,11 +152,9 @@ Let's take a closer look at the changes you've made to the README file:
 
 3. Click your repository's name (located in the top left of the window) to return to the repository's home page.
 
-## Remote to Local
+## Homework
 
-While GitHub's interface allows for editing, developing, and launching a website, working locally will help you work effectively and efficiently. This section will introduce you to the concept of remote and local repositories through the use of GitHub Desktop.
-
-### Step 1. Install GitHub Desktop
+### Install Github Desktop
 
 1. Navigate to [GitHub Desktop](https://github.com/apps/desktop) and download the appropriate version of GitHub Desktop for your operating system. 
 2. Follow the prompts to complete the installation. For more information, see [Installing GitHub Desktop](https://docs.github.com/en/desktop/installing-and-authenticating-to-github-desktop/setting-up-github-desktop).
@@ -166,32 +164,16 @@ While GitHub's interface allows for editing, developing, and launching a website
     4. Click `finish`
 3. Arrive at `Let's get started.` prompt.
 
-### Step 2. Clone Your Repository Using GitHub Desktop
+### Download VS Code extensions
 
-1. Using your browser, go to your GitHub dashboard or repository list and find the repository we created in the previous module. If you followed along, it will be titled `dsf-github-basics`.
-2. On your repository landing page, find the green button titled `< > Code` and click to open a drop down menu.
-3. Under the `local` tab, select `Open with GitHub Desktop`.
-4. GitHub Desktop will open and show your respository url and a suggested local path. If these look accurate and/or are acceptable, click `clone`. 
+- [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- [Edit CSV](https://marketplace.visualstudio.com/items?itemName=janisdd.vscode-edit-csv)
+- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 
-### Step 3. Explore GitHub Desktop and its Functionality
+### Research Materials
 
-1. Explore navigation bar:
-    - Current repository dropdown menu
-    - Current branch dropdown menu
-    - Suggested action:
-        - Fetch
-        - Pull
-        - Push
-2. Explore commit viewer:
-    - Changes
-    - History
-    - Commit message
-3. Explore main viewer:
-    - Open the repository in your external editor
-    - View the files of your repository in Finder/Windows Explorer
-    - Open the repository page on GitHub in your browser
+Think about whether you have your own research materials or use demo materials, and bring questions for me about acceptable materials:
 
-## Homework
-
-1. Please try to [download and install VS Code](https://code.visualstudio.com/download) (if you do not have a different preferred text editor) before our next session. If you have trouble, we can walk through the process during our session.
-2. Begin collection five to ten objects for your prototype website. We will discuss further next session, but if you have you can read through the [Object Guidelines](https://collectionbuilder.github.io/cb-docs/docs/objects/csv-objects/#object-guidelines-for-collectionbuilder-csv) (just the section the page jumps to) and [metadata information](https://collectionbuilder.github.io/cb-docs/docs/metadata/) from [CollectionBuilder](https://collectionbuilder.github.io/). If these guidelines are confusing or you’re not sure what they’re asking for, don’t worry, we will also walk through it together.
+- I can share research materials with you so that you can successfully create a project prototype.
+- If you want to use your own materials, I recommend selecting a small amount with either already existing or easy to create metadata.  You can always add materials later and update your project accordingly. Remember, your goal after 4 weeks is to have a prototype, not the world’s greatest digital scholarship project ever.
