@@ -6,13 +6,14 @@ topics: Text Editors; Authoring Web Content; Markup Languages
 ---
 
 ## Learning Objectives
-
-- Learn some best practices for file naming and metadata.
-- Review Git and GitHub
+ 
+- Review Git and GitHub.
+- Link your Github remote repository to your local machine.
 - Learn about some of the building blocks of the web.
-- Become familiar with your text editor (VS Code).
-- Write with Markdown.
-- Learn software that makes up development environment
+- Write with Markdown using VS Code.
+- Learn some best practices for file naming and metadata.
+- Learn what makes up development environment.
+
 
 ## Remote to Local
 
