@@ -9,11 +9,11 @@ Below are resources that can provide additional support during and after our wor
 
 Week 1: GitHub and Getting to Know Your Computer: [Google Slides](https://docs.google.com/presentation/d/164yBHMiVv4UIPq52LbAPICjzX9tvHKmRYGJCENTimOs/edit?usp=sharing)
 
-Week 2: The Web, Markdown, and Data: Slides coming soon!
+Week 2: The Web, Markdown, and Data: [Google Slides](https://docs.google.com/presentation/d/15MphBRp2MCNiGtzNQOEp3kqoagGtuPSDUoENfk9MSc0/edit?usp=sharing)
 
-Week 3: Static Site Generation and Local Development: Slides coming soon!
+Week 3: Static Site Generation and Local Development: [Google Slides](https://docs.google.com/presentation/d/1fqSqFDjAmviQJmzcUUAXWWLTJ5lfmT1NX4V67QcPOV4/edit?usp=sharing)
 
-Week 4: Advanced Building and Basic Computational Methods: Slides coming soon!
+Week 4: Advanced Building and Basic Computational Methods: [Google Slides](https://docs.google.com/presentation/d/1jgQLvXs3tzIPM7vlmSfFozSJ9CyJJAkvEV3TQcVZDkY/edit?usp=sharing)
 
 ## Git & GitHub
 
